@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006952859418",
+    "project_id": "flutter-contest-3a0ac",
+    "storage_bucket": "flutter-contest-3a0ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006952859418:android:e0c77151e00a25bb2fcea3",
+        "android_client_info": {
+          "package_name": "com.example.careers_solutionsllc_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006952859418-22471mpu9rs202u3c1u3k9tmaeqtlaoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.careers_solutionsllc_task",
+            "certificate_hash": "26dc5be80b6e9429b28c334107bbd517a655c8be"
+          }
+        },
+        {
+          "client_id": "1006952859418-ts168rqr6fd9t2f31td7ku016bjirg8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJW4nk7JfX4MVnOZLhLySCxwT9MsnPSvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006952859418-ts168rqr6fd9t2f31td7ku016bjirg8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
